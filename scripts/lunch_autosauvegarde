@@ -1,0 +1,12 @@
+#! /bin/bash
+
+while true;do
+    pgrep start >  /dev/null 2>&1
+    	if [ "$?" != "0" ];then
+    		./commandsauvegarde.sh	
+    		
+    	fi
+    sleep 432000
+done
+
+

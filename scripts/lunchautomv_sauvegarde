@@ -1,0 +1,13 @@
+#! /bin/bash
+
+while true;do
+    pgrep start >  /dev/null 2>&1
+    	if [ "$?" != "0" ];then
+    		mv public_server_snapshot /opt/backupteamspeak/backup
+    		
+    	fi
+    sleep 60m
+done
+
+
+

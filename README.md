@@ -16,3 +16,4 @@ Backup développé en bash qui permet de faire une sauvegarde automatique en fic
 * On suprime le zip -> `rm master.zip`
 * Direction le dossier de configueration -> `cd /backupteamspeak/scripts`
 * On edite le fichiers avec un editeur txt -> `vim config.sh`
+![config1](https://image.noelshack.com/fichiers/2018/19/1/1525710798-capture.png)

@@ -6,9 +6,9 @@ Backup développé en bash qui permet de faire une sauvegarde automatique en fic
 * Un accès serveradmin TeamSpeak.
 * Un serveur sous GNU/Linux.
 
-## 🕹️ *__Installation__* :
+## 📊 *__Installation__* :
 
-
+* Installation du Package "unzip" -> `sudo apt-get install unzip`
 
 
 

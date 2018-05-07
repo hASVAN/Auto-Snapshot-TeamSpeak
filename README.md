@@ -1,8 +1,14 @@
 ## ➜ Auto-Snapshot-TeamSpeak ⚠️
     
-En build
+Backup développé en bash qui permet de faire une sauvegarde automatique en fichiers Snapshot sur Teamspeak via le serveradmin Teamspeak tous les 5 jours.
 
 #
-* [Download](https://github.com/BadySmith/DAS-deployapps/archive/master.zip)
 
-## 📝 *__Documentations et installation__* :
+## ⌨️ *__Exigence__* :
+
+
+
+#
+* [Download](https://github.com/BadySmith/Auto-Snapshot-TeamSpeak/archive/master.zip)
+
+

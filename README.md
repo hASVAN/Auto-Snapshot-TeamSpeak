@@ -15,8 +15,21 @@ Backup développé en bash qui permet de faire une sauvegarde automatique en fic
 * On change le nom du dossier -> `mv Auto-Snapshot-TeamSpeak-master backupteamspeak`
 * On suprime le zip -> `rm master.zip`
 * Direction le dossier de configueration -> `cd /backupteamspeak/scripts`
-* On edite le fichiers avec un editeur txt -> `vim config.sh`
+* On edite le fichiers avec un editeur txt -> `vim config.sh` ou `nano config.sh`
 
 ![config1](https://image.noelshack.com/fichiers/2018/19/1/1525710935-capture.png)
 
 ![config2](https://image.noelshack.com/fichiers/2018/19/1/1525710798-capture.png)
+
+* Autorisation de l'exécuté -> `chmod 777 start.sh`
+* On le lance -> `./start.sh start`
+
+Voilà tout les 5 jours dans le dossier `/opt/backupteamspeak/backup/` vous avez une sauvegarde de votre serveur TeamSpeak.
+
+* Commandes du Script : 
+
+`./start.sh start` 
+
+`./start.sh stop`
+
+`./start.sh start`

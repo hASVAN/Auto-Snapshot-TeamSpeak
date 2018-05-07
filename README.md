@@ -32,4 +32,4 @@ Voilà tout les 5 jours dans le dossier `/opt/backupteamspeak/backup/` vous avez
 
 `./start.sh stop`
 
-`./start.sh start`
+`./start.sh status`

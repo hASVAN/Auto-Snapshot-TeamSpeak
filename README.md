@@ -33,3 +33,6 @@ Voilà tout les 5 jours dans le dossier `/opt/backupteamspeak/backup/` vous avez
 `./start.sh stop`
 
 `./start.sh status`
+
+## *__Informations Projet__* :
+* Projet réaliser pour [R4p3.NET](https://r4p3.net/threads/auto-snapshot-teamspeak-5-days-script-for-ts3-server.6618/) avec l'aide du Forum TeamSpeak3.

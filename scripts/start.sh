@@ -33,8 +33,8 @@ then
 
 elif [ "$1" = "stop" ];
 then
-		pkill -f test1
-		pkill -f test2
+		pkill -f AutoBackup
+		pkill -f AutoMoveSF
 
         redMessage '[Apps-AutoBackup] Downed !'
 elif [ "$1" = "status" ];

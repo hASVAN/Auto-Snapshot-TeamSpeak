@@ -4,7 +4,7 @@ Backup développé en bash qui permet de faire une sauvegarde automatique en fic
 
 ## 📃 *__Exigence__* :
 * Un accès serveradmin TeamSpeak.
-* Un serveur sous Debian/Unbutu.
+* Un serveur sous GNU/Linux Exemple : Debian/Unbutu.
 
 ## 📊 *__Installation__* :
 

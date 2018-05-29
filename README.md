@@ -4,7 +4,7 @@ Backup développé en bash qui permet de faire une sauvegarde automatique en fic
 
 ## 📃 *__Exigence__* :
 * Un accès serveradmin TeamSpeak.
-* Un serveur sous GNU/Linux.
+* Un serveur sous Debian/Unbutu.
 
 ## 📊 *__Installation__* :
 
@@ -35,4 +35,4 @@ Voilà tout les 5 jours dans le dossier `/opt/backupteamspeak/backup/` vous avez
 `./start.sh status`
 
 ## *__Informations Projet__* :
-* Projet réaliser pour la communauté Française de TeamSpeak ainsi que les Administrateur de serveur de jeux, script réaliser avec l'aide du Forum TeamSpeak3.
+* Projet réaliser pour la communauté Française de TeamSpeak ainsi que les Administrateurs de serveur de jeux, script réaliser avec l'aide du Forum TeamSpeak3.

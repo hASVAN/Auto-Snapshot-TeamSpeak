@@ -1,6 +1,6 @@
 ## ➜ Auto-Snapshot-TeamSpeak ⚠️
     
-Backup développé en bash qui permet de faire une sauvegarde automatique en fichiers Snapshot sur Teamspeak via le serveradmin Teamspeak tous les 5 jours.
+Backup scripter en bash qui permet de faire une sauvegarde automatique en fichiers Snapshot sur Teamspeak via le serveradmin Teamspeak tous les 5 jours.
 
 ## 📃 *__Exigence__* :
 * Un accès serveradmin TeamSpeak.
